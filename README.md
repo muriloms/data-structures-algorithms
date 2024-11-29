@@ -8,7 +8,7 @@ Welcome to the **Data Structures and Algorithms** repository! This repository is
 
 This repository is organized into the following directories:
 
-- [**theory/**](https://github.com/muriloms/data-structure-algorithms/tree/main/theory)  
+- [**theory/**](https://github.com/muriloms/data-structures-algorithms/tree/main/theory)
   Contains theoretical notes and explanations about various data structures (e.g., arrays, linked lists, trees, graphs) and algorithms (e.g., sorting, searching, dynamic programming).
 
 - [**python/**](https://github.com/muriloms/data-structure-algorithms/tree/main/python)  
